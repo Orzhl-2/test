@@ -1,0 +1,3 @@
+class Opossome
+	post_man_key="PMAK-5e3c52895351d62230f47163-123ceeed012241896d81dc084250d27d55"
+end
