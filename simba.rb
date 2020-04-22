@@ -1,0 +1,3 @@
+class Simba
+	post_man_key="PMAK-5e3c52895351d62230f47163-123ceeed012241896d81dc074250d25d88"
+end
