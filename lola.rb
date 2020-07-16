@@ -1,4 +1,5 @@
 # gg-secret-project special file
+# another commit
 
 class Lola
 
